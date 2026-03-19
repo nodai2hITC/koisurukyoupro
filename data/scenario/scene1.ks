@@ -30,7 +30,7 @@
 [free name="chara_name_area" layer="message0"]
  
 ; メッセージボックスのデザイン
-[position left="0" top="420" width="960" height="220" frame="window6/_frame.png" opacity="255"]
+[position left="0" top="420" width="960" height="220" frame="window6/frame.png" opacity="255"]
 [position marginl="50" margint="50" marginr="160"]
  
 ; 名前欄
